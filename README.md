@@ -18,6 +18,12 @@ This project is an image classification model using deep learning techniques. Th
   - [Model Training](#model-training)
   - [Evaluation](#evaluation)
 - [Results](#results)
+```plaintext
+   Accuracy: 96%
+   Precision: 95%
+   Recall: 94%
+   F1 Score: 94.5%
+```
 - [Contributing](#contributing)
 - [License](#license)
 
