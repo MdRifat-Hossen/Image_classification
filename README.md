@@ -3,6 +3,7 @@
 # Image Classification Project
 
 ![GitHub](https://img.shields.io/github/license/MdRifat-Hossen/Image_classification)
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/MdRifat-Hossen/Image_classification)
 ![GitHub issues](https://img.shields.io/github/issues/MdRifat-Hossen/Image_classification)
 
